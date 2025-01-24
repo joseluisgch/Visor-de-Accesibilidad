@@ -2,3 +2,4 @@ openrouteservice
 ipywidgets
 streamlit
 folium
+streamlit-folium
